@@ -249,3 +249,8 @@ mvn deploy:deploy-file -DgroupId=com.microsoft.sqlserver -DartifactId=sqljdbc4 -
 
 mvn deploy:deploy-file -DgroupId=com.smart -DartifactId=smart-visualdev-base -Dversion=3.1.0-SNAPSHOT -Dpackaging=jar -Dfile=D:\repository_jnpf\com\smart\smart-visualdev-base-api\3.1.0-SNAPSHOT\smart-visualdev-base-api-3.1.0-SNAPSHOT.jar -Durl=http://39.101.66.185:8899/repository/maven-snapshots/ -DrepositoryId=maven-snapshots
 
+https://docs.jn
+pfs
+oft.com/docs/jn
+pf-java-cl
+oud#45-%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83
